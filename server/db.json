@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ndd@gmail.com",
+      "password": "123duong",
+      "name": "duong"
+    },
+    {
+      "name": "đình dương",
+      "email": "duong@gmail.com",
+      "password": "$2a$10$Y/vDJrouxNZVsbEBLChnauHIEpmf7dmNTE/XnnHXXdnFLNhy9gwRC",
+      "id": 2
+    },
+    {
+      "name": "nam",
+      "email": "nam@gmail.com",
+      "password": "$2a$10$P8goIhiL.upUBvPNv5M7qeELWFABD.HTRbaYp/yrAXturgWXWmPLC",
+      "id": 3
+    }
+  ]
+}
